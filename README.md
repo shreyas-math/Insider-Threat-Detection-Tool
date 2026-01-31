@@ -36,7 +36,7 @@ The tool triggers pop-up warnings for critical events:
 
 1.  **Clone this Repository**
     ```bash
-    git clone [https://github.com/shreyas-math/Insider-Threat-Detection-Tool.git](https://github.com/shreyas-math/Insider-Threat-Detection-Tool.git)
+    git clone https://github.com/shreyas-math/Insider-Threat-Detection-Tool.git
     ```
 2.  **Install Dependencies**
     You must install `customtkinter` and `psutil` to run:
